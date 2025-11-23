@@ -140,10 +140,11 @@ const Home = () => {
       {/* Llamado a la acción */}
       <section className="py-16 bg-white text-center">
         <h2 className="text-3xl lg:text-4xl font-bold text-pink-700 mb-6">
-          ¿Lista para crear algo increíble?
+          ¿Te gustaría tener una web bonita y profesional?
         </h2>
         <p className="text-lg text-pink-500 mb-8">
-          Cuéntanos tu idea y hagamos realidad tu proyecto 💕
+         Nosotras la hacemos realidad 💗
+Y si eres una chic@ tech, ven y programa con nosotras
         </p>
         {/* Hay dos botones con Link */}
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
